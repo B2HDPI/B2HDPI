@@ -4,13 +4,13 @@ The attempt when placing pixels was to generally guess the original creator's in
 
 Instructions:
 
-`
+```
 xset fp+ $PWD
 xset fp rehash
 xterm -ypn-envypn_b2hdpi-medium-r-normal--30-300-75-75-c-180-iso8859-1
 xterm -misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1
 xterm -ibm-vga_b2hdpi-normal-r-normal--32-240-96-96-c-160-iso10646-1
-`
+```
 
 ## -ypn-envypn_b2hdpi-medium-r-normal--30-300-75-75-c-180-iso8859-1
 
