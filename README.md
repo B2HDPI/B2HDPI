@@ -1,0 +1,12 @@
+Sharp bitmap fonts for HDPI screens. Doubled from their original sizes, then manually depixelized.
+
+The attempt when placing pixels was to generally guess the original creator's intention, but some minor artistic license was taken. Issues or pull requests welcome if you think a particular pixel should be flipped or moved.
+
+![-ypn-envypn_b2hdpi-medium-r-normal--30-300-75-75-c-180-iso8859-1](envypn.png)
+![-misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1](lode.png)
+![-ibm-vga_b2hdpi-normal-r-normal--32-240-96-96-c-160-iso10646-1](vga.png)
+
+Sources:
+https://github.com/hicolour/envypn-font
+https://github.com/farsil/ibmfonts
+https://github.com/hishamhm/lode-fonts
