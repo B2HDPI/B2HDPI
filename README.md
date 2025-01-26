@@ -1,4 +1,4 @@
-# Sharp bitmap fonts for HDPI screens. Doubled from their original sizes, then manually depixelized.
+# Crisp bitmap fonts for HDPI screens. Doubled from their original sizes, then manually depixelized.
 
 The attempt when placing pixels was to generally guess the original creator's intention, but some minor artistic license was taken. Issues or pull requests welcome if you think a particular pixel should be flipped or moved.
 
