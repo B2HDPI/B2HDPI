@@ -7,6 +7,7 @@ Instructions:
 ```
 xset fp+ $PWD
 xset fp rehash
+xterm -fn -ypn-envypn_b2hdpi-medium-r-normal--26-260-75-75-c-180-iso8859-1
 xterm -fn -ypn-envypn_b2hdpi-medium-r-normal--30-300-75-75-c-180-iso8859-1
 xterm -fn -misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1
 xterm -fn -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1
@@ -15,16 +16,17 @@ xterm -fn -ibm-vga_b2hdpi-normal-r-normal--32-240-96-96-c-160-iso10646-1
 
 ## -ypn-envypn_b2hdpi-medium-r-normal--30-300-75-75-c-180-iso8859-1
 
+![-ypn-envypn_b2hdpi-medium-r-normal--26-260-75-75-c-180-iso8859-1](envypn7x13.png)
 ![-ypn-envypn_b2hdpi-medium-r-normal--30-300-75-75-c-180-iso8859-1](envypn.png)
 
 Source: https://github.com/hicolour/envypn-font
 
 
 ## -misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1
-## lode_1.5x_b2hdpi.bdf -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1
+## lode1.5x_b2hdpi.bdf -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1
 
 ![-misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1](lode.png)
-![lode_1.5x_b2hdpi.bdf -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1](lode_1.5.png)
+![lode1.5x_b2hdpi.bdf -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1](lode1.5x.png)
 
 Source: https://github.com/hishamhm/lode-fonts
 
