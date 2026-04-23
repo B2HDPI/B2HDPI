@@ -23,7 +23,7 @@ Source: https://github.com/hicolour/envypn-font
 
 
 ## -misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1
-## lode1.5x_b2hdpi.bdf -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1
+## -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1
 
 ![-misc-lode_b2hdpi-medium-r-normal--30-300-75-75-c-160-iso10646-1](lode.png)
 ![lode1.5x_b2hdpi.bdf -misc-lode1.5-medium-r-normal--23-225-75-75-c-120-iso10646-1](lode1.5x.png)
